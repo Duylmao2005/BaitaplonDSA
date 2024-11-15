@@ -51,8 +51,6 @@ public:
                 return;
             }
         }
-
-        // N?u v? trí tr?ng ho?c mã sách gi?ng nhau, ta s? thêm ho?c ghi dè
         table[index] = new Book(book);
     }
 
